@@ -1,7 +1,5 @@
-Eu,  Meu nome é Renan,ultimamente estou cursando (ADS),
-Tenho interesse em aprender programação
-
-meu usuário @Renan9198
+Oi❤, Meu nome é Renan,ultimamente estou cursando (ADS),
+Tenho interesse em aprender programação.
 
 
 <!---
